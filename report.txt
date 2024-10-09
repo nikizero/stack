@@ -1,0 +1,2325 @@
+
+ 
+stack, named $stack$ [0x16b1e7258] from function: Stack_ctor()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 2 
+   2. Size: 0 
+   3. Hash_sum: 1137462248040049878 right: 1137462248040049878 
+
+   4. Error code: okey
+   5. Data[0x16b1e7429] 
+
+ 
+stack created and Validate!
+
+ 
+stack, named $stack$ [0x16b1e7258] from function: Stack_ctor()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 2 
+   2. Size: 0 
+   3. Hash_sum: 1137459787003883772 right: 1137459787003883772 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 2 
+   2. Size: 0 
+   3. Hash_sum: 1137459787003883772 right: 1137459787003883772 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+
+ 
+The element was successfully added to the stack!
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 2 
+   2. Size: 1 
+   3. Hash_sum: 1137459787003887337 right: 1137459787003887337 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 2 
+   2. Size: 1 
+   3. Hash_sum: 1137459787003887337 right: 1137459787003887337 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+
+ 
+The element was successfully added to the stack!
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 2 
+   2. Size: 2 
+   3. Hash_sum: 1137459787003890902 right: 1137459787003890902 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 2 
+   2. Size: 2 
+   3. Hash_sum: 1137459787003890902 right: 1137459787003890902 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e7238] from function: Stack.increase()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 2 
+   2. Size: 2 
+   3. Hash_sum: 1137459787003890902 right: 1137459787003890902 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e7238] from function: Stack.increase()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 4 
+   2. Size: 2 
+   3. Hash_sum: 1137459787003898032 right: 1137459787003898032 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+
+ 
+Stack size increased to:4 
+The element was successfully added to the stack!
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 4 
+   2. Size: 3 
+   3. Hash_sum: 1137459787003901597 right: 1137459787003901597 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 4 
+   2. Size: 3 
+   3. Hash_sum: 1137459787003901597 right: 1137459787003901597 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+
+ 
+The element was successfully added to the stack!
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 4 
+   2. Size: 4 
+   3. Hash_sum: 1137459787003905162 right: 1137459787003905162 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 4 
+   2. Size: 4 
+   3. Hash_sum: 1137459787003905162 right: 1137459787003905162 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e7238] from function: Stack.increase()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 4 
+   2. Size: 4 
+   3. Hash_sum: 1137459787003905162 right: 1137459787003905162 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e7238] from function: Stack.increase()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 8 
+   2. Size: 4 
+   3. Hash_sum: 1137459787003919422 right: 1137459787003919422 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+
+ 
+Stack size increased to:8 
+The element was successfully added to the stack!
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 8 
+   2. Size: 5 
+   3. Hash_sum: 1137459787003922987 right: 1137459787003922987 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 8 
+   2. Size: 5 
+   3. Hash_sum: 1137459787003922987 right: 1137459787003922987 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+
+ 
+The element was successfully added to the stack!
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 8 
+   2. Size: 6 
+   3. Hash_sum: 1137459787003926552 right: 1137459787003926552 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 8 
+   2. Size: 6 
+   3. Hash_sum: 1137459787003926552 right: 1137459787003926552 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+
+ 
+The element was successfully added to the stack!
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 8 
+   2. Size: 7 
+   3. Hash_sum: 1137459787003930117 right: 1137459787003930117 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 8 
+   2. Size: 7 
+   3. Hash_sum: 1137459787003930117 right: 1137459787003930117 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+
+ 
+The element was successfully added to the stack!
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 8 
+   2. Size: 8 
+   3. Hash_sum: 1137459787003933682 right: 1137459787003933682 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 8 
+   2. Size: 8 
+   3. Hash_sum: 1137459787003933682 right: 1137459787003933682 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e7238] from function: Stack.increase()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 8 
+   2. Size: 8 
+   3. Hash_sum: 1137459787003933682 right: 1137459787003933682 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e7238] from function: Stack.increase()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 16 
+   2. Size: 8 
+   3. Hash_sum: 1137459787003962202 right: 1137459787003962202 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+
+ 
+Stack size increased to:16 
+The element was successfully added to the stack!
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 16 
+   2. Size: 9 
+   3. Hash_sum: 1137459787003965767 right: 1137459787003965767 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 16 
+   2. Size: 9 
+   3. Hash_sum: 1137459787003965767 right: 1137459787003965767 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+
+ 
+The element was successfully added to the stack!
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 16 
+   2. Size: 10 
+   3. Hash_sum: 1137459787003969332 right: 1137459787003969332 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 16 
+   2. Size: 10 
+   3. Hash_sum: 1137459787003969332 right: 1137459787003969332 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+
+ 
+The element was successfully added to the stack!
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 16 
+   2. Size: 11 
+   3. Hash_sum: 1137459787003972897 right: 1137459787003972897 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 16 
+   2. Size: 11 
+   3. Hash_sum: 1137459787003972897 right: 1137459787003972897 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+
+ 
+The element was successfully added to the stack!
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 16 
+   2. Size: 12 
+   3. Hash_sum: 1137459787003976462 right: 1137459787003976462 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 16 
+   2. Size: 12 
+   3. Hash_sum: 1137459787003976462 right: 1137459787003976462 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+
+ 
+The element was successfully added to the stack!
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 16 
+   2. Size: 13 
+   3. Hash_sum: 1137459787003980027 right: 1137459787003980027 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 16 
+   2. Size: 13 
+   3. Hash_sum: 1137459787003980027 right: 1137459787003980027 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+
+ 
+The element was successfully added to the stack!
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 16 
+   2. Size: 14 
+   3. Hash_sum: 1137459787003983592 right: 1137459787003983592 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 16 
+   2. Size: 14 
+   3. Hash_sum: 1137459787003983592 right: 1137459787003983592 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+
+ 
+The element was successfully added to the stack!
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 16 
+   2. Size: 15 
+   3. Hash_sum: 1137459787003987157 right: 1137459787003987157 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 16 
+   2. Size: 15 
+   3. Hash_sum: 1137459787003987157 right: 1137459787003987157 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+
+ 
+The element was successfully added to the stack!
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 16 
+   2. Size: 16 
+   3. Hash_sum: 1137459787003990722 right: 1137459787003990722 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+       [15] = 28
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 16 
+   2. Size: 16 
+   3. Hash_sum: 1137459787003990722 right: 1137459787003990722 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+       [15] = 28
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e7238] from function: Stack.increase()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 16 
+   2. Size: 16 
+   3. Hash_sum: 1137459787003990722 right: 1137459787003990722 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+       [15] = 28
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e7238] from function: Stack.increase()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 16 
+   3. Hash_sum: 1137459787004047762 right: 1137459787004047762 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+       [15] = 28
+
+ 
+Stack size increased to:32 
+The element was successfully added to the stack!
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 17 
+   3. Hash_sum: 1137459787004051327 right: 1137459787004051327 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+       [15] = 28
+       [16] = 29
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 17 
+   3. Hash_sum: 1137459787004051327 right: 1137459787004051327 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+       [15] = 28
+       [16] = 29
+
+ 
+The element was successfully added to the stack!
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 18 
+   3. Hash_sum: 1137459787004054892 right: 1137459787004054892 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+       [15] = 28
+       [16] = 29
+       [17] = 30
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 18 
+   3. Hash_sum: 1137459787004054892 right: 1137459787004054892 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+       [15] = 28
+       [16] = 29
+       [17] = 30
+
+ 
+The element was successfully added to the stack!
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 19 
+   3. Hash_sum: 1137459787004058457 right: 1137459787004058457 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+       [15] = 28
+       [16] = 29
+       [17] = 30
+       [18] = 31
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 19 
+   3. Hash_sum: 1137459787004058457 right: 1137459787004058457 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+       [15] = 28
+       [16] = 29
+       [17] = 30
+       [18] = 31
+
+ 
+The element was successfully added to the stack!
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 20 
+   3. Hash_sum: 1137459787004062022 right: 1137459787004062022 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+       [15] = 28
+       [16] = 29
+       [17] = 30
+       [18] = 31
+       [19] = 32
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 20 
+   3. Hash_sum: 1137459787004062022 right: 1137459787004062022 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+       [15] = 28
+       [16] = 29
+       [17] = 30
+       [18] = 31
+       [19] = 32
+
+ 
+The element was successfully added to the stack!
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 21 
+   3. Hash_sum: 1137459787004065587 right: 1137459787004065587 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+       [15] = 28
+       [16] = 29
+       [17] = 30
+       [18] = 31
+       [19] = 32
+       [20] = 33
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 21 
+   3. Hash_sum: 1137459787004065587 right: 1137459787004065587 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+       [15] = 28
+       [16] = 29
+       [17] = 30
+       [18] = 31
+       [19] = 32
+       [20] = 33
+
+ 
+The element was successfully added to the stack!
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 22 
+   3. Hash_sum: 1137459787004069152 right: 1137459787004069152 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+       [15] = 28
+       [16] = 29
+       [17] = 30
+       [18] = 31
+       [19] = 32
+       [20] = 33
+       [21] = 34
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 22 
+   3. Hash_sum: 1137459787004069152 right: 1137459787004069152 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+       [15] = 28
+       [16] = 29
+       [17] = 30
+       [18] = 31
+       [19] = 32
+       [20] = 33
+       [21] = 34
+
+ 
+The element was successfully added to the stack!
+
+ 
+stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 23 
+   3. Hash_sum: 1137459787004072717 right: 1137459787004072717 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+       [15] = 28
+       [16] = 29
+       [17] = 30
+       [18] = 31
+       [19] = 32
+       [20] = 33
+       [21] = 34
+       [22] = 35
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 23 
+   3. Hash_sum: 1137459787004072717 right: 1137459787004072717 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+       [15] = 28
+       [16] = 29
+       [17] = 30
+       [18] = 31
+       [19] = 32
+       [20] = 33
+       [21] = 34
+       [22] = 35
+
+ 
+The element has left the stack!
+
+ 
+stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 22 
+   3. Hash_sum: 1137459787004069152 right: 1137459787004069152 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+       [15] = 28
+       [16] = 29
+       [17] = 30
+       [18] = 31
+       [19] = 32
+       [20] = 33
+       [21] = 34
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 22 
+   3. Hash_sum: 1137459787004069152 right: 1137459787004069152 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+       [15] = 28
+       [16] = 29
+       [17] = 30
+       [18] = 31
+       [19] = 32
+       [20] = 33
+       [21] = 34
+
+ 
+The element has left the stack!
+
+ 
+stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 21 
+   3. Hash_sum: 1137459787004065587 right: 1137459787004065587 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+       [15] = 28
+       [16] = 29
+       [17] = 30
+       [18] = 31
+       [19] = 32
+       [20] = 33
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 21 
+   3. Hash_sum: 1137459787004065587 right: 1137459787004065587 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+       [15] = 28
+       [16] = 29
+       [17] = 30
+       [18] = 31
+       [19] = 32
+       [20] = 33
+
+ 
+The element has left the stack!
+
+ 
+stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 20 
+   3. Hash_sum: 1137459787004062022 right: 1137459787004062022 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+       [15] = 28
+       [16] = 29
+       [17] = 30
+       [18] = 31
+       [19] = 32
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 20 
+   3. Hash_sum: 1137459787004062022 right: 1137459787004062022 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+       [15] = 28
+       [16] = 29
+       [17] = 30
+       [18] = 31
+       [19] = 32
+
+ 
+The element has left the stack!
+
+ 
+stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 19 
+   3. Hash_sum: 1137459787004058457 right: 1137459787004058457 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+       [15] = 28
+       [16] = 29
+       [17] = 30
+       [18] = 31
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 19 
+   3. Hash_sum: 1137459787004058457 right: 1137459787004058457 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+       [15] = 28
+       [16] = 29
+       [17] = 30
+       [18] = 31
+
+ 
+The element has left the stack!
+
+ 
+stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 18 
+   3. Hash_sum: 1137459787004054892 right: 1137459787004054892 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+       [15] = 28
+       [16] = 29
+       [17] = 30
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 18 
+   3. Hash_sum: 1137459787004054892 right: 1137459787004054892 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+       [15] = 28
+       [16] = 29
+       [17] = 30
+
+ 
+The element has left the stack!
+
+ 
+stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 17 
+   3. Hash_sum: 1137459787004051327 right: 1137459787004051327 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+       [15] = 28
+       [16] = 29
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 17 
+   3. Hash_sum: 1137459787004051327 right: 1137459787004051327 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+       [15] = 28
+       [16] = 29
+
+ 
+The element has left the stack!
+
+ 
+stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 16 
+   3. Hash_sum: 1137459787004047762 right: 1137459787004047762 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+       [15] = 28
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 16 
+   3. Hash_sum: 1137459787004047762 right: 1137459787004047762 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+       [15] = 28
+
+ 
+The element has left the stack!
+
+ 
+stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 15 
+   3. Hash_sum: 1137459787004044197 right: 1137459787004044197 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 15 
+   3. Hash_sum: 1137459787004044197 right: 1137459787004044197 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+       [14] = 27
+
+ 
+The element has left the stack!
+
+ 
+stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 14 
+   3. Hash_sum: 1137459787004040632 right: 1137459787004040632 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 14 
+   3. Hash_sum: 1137459787004040632 right: 1137459787004040632 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+       [13] = 26
+
+ 
+The element has left the stack!
+
+ 
+stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 13 
+   3. Hash_sum: 1137459787004037067 right: 1137459787004037067 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 13 
+   3. Hash_sum: 1137459787004037067 right: 1137459787004037067 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+       [12] = 25
+
+ 
+The element has left the stack!
+
+ 
+stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 12 
+   3. Hash_sum: 1137459787004033502 right: 1137459787004033502 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 12 
+   3. Hash_sum: 1137459787004033502 right: 1137459787004033502 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+       [11] = 24
+
+ 
+The element has left the stack!
+
+ 
+stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 11 
+   3. Hash_sum: 1137459787004029937 right: 1137459787004029937 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 11 
+   3. Hash_sum: 1137459787004029937 right: 1137459787004029937 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+       [10] = 23
+
+ 
+The element has left the stack!
+
+ 
+stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 10 
+   3. Hash_sum: 1137459787004026372 right: 1137459787004026372 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 10 
+   3. Hash_sum: 1137459787004026372 right: 1137459787004026372 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e7248] from function: Stack.decrease()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 32 
+   2. Size: 10 
+   3. Hash_sum: 1137459787004026372 right: 1137459787004026372 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e7248] from function: Stack.decrease()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 16 
+   2. Size: 10 
+   3. Hash_sum: 1137459787003969332 right: 1137459787003969332 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+       [9] = 22
+
+ 
+Stack size decreased to:16 
+The element has left the stack!
+
+ 
+stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 16 
+   2. Size: 9 
+   3. Hash_sum: 1137459787003965767 right: 1137459787003965767 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 16 
+   2. Size: 9 
+   3. Hash_sum: 1137459787003965767 right: 1137459787003965767 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+       [8] = 21
+
+ 
+The element has left the stack!
+
+ 
+stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 16 
+   2. Size: 8 
+   3. Hash_sum: 1137459787003962202 right: 1137459787003962202 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 16 
+   2. Size: 8 
+   3. Hash_sum: 1137459787003962202 right: 1137459787003962202 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+       [7] = 20
+
+ 
+The element has left the stack!
+
+ 
+stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 16 
+   2. Size: 7 
+   3. Hash_sum: 1137459787003958637 right: 1137459787003958637 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+
+ 
+
+ 
+stack, named $stack$ [0x16b1e7348] from function: Stack_dtor()
+Curret Canary 1: BADDED600DDED[OK]
+Curret Canary 2: BADDED600DDED[OK]
+   1. Capacity: 16 
+   2. Size: 7 
+   3. Hash_sum: 1137459787003958637 right: 1137459787003958637 
+
+   4. Error code: okey
+   5. Data[0x143e05308] 
+       [0] = 13
+       [1] = 14
+       [2] = 15
+       [3] = 16
+       [4] = 17
+       [5] = 18
+       [6] = 19
+
+ 
+stack determinate!

@@ -1,0 +1,15 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     hello
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x1000030E0, symSize: 0x7C }
+  - { offsetInCU: 0x82, offset: 0x82, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x1000030E0, symSize: 0x7C }
+  - { offsetInCU: 0x1E, offset: 0x3CE, size: 0x8, addend: 0x0, symName: __Z6IsEror5stackPKcS1_i, symObjAddr: 0x0, symBinAddr: 0x10000315C, symSize: 0xC0 }
+  - { offsetInCU: 0x2E0C, offset: 0x31BC, size: 0x8, addend: 0x0, symName: __Z6IsEror5stackPKcS1_i, symObjAddr: 0x0, symBinAddr: 0x10000315C, symSize: 0xC0 }
+  - { offsetInCU: 0x2E63, offset: 0x3213, size: 0x8, addend: 0x0, symName: __Z9mark_erorPKcS0_i4erorP5stack, symObjAddr: 0xC0, symBinAddr: 0x10000321C, symSize: 0x6C }
+  - { offsetInCU: 0x2EF2, offset: 0x32A2, size: 0x8, addend: 0x0, symName: __Z6Verify5stack, symObjAddr: 0x12C, symBinAddr: 0x100003288, symSize: 0x214 }
+  - { offsetInCU: 0x2F1F, offset: 0x32CF, size: 0x8, addend: 0x0, symName: __Z6Dumper5stack, symObjAddr: 0x340, symBinAddr: 0x10000349C, symSize: 0x44C }
+  - { offsetInCU: 0x2F65, offset: 0x3315, size: 0x8, addend: 0x0, symName: __Z10Hash_count5stack, symObjAddr: 0x78C, symBinAddr: 0x1000038E8, symSize: 0x84 }
+  - { offsetInCU: 0x2FBC, offset: 0x336C, size: 0x8, addend: 0x0, symName: __Z10Stack_ctorP5stackPKc, symObjAddr: 0x810, symBinAddr: 0x10000396C, symSize: 0x164 }
+  - { offsetInCU: 0x2FF6, offset: 0x33A6, size: 0x8, addend: 0x0, symName: __Z11Print_error6eror_t, symObjAddr: 0x974, symBinAddr: 0x100003AD0, symSize: 0x110 }
+...
