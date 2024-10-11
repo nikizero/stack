@@ -1,2325 +1,2325 @@
 
  
-stack, named $stack$ [0x16b1e7258] from function: Stack_ctor()
+stack, named $stack$ [0x16f4f3258] from function: Stack_ctor()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 2 
    2. Size: 0 
-   3. Hash_sum: 1137462248040049878 right: 1137462248040049878 
+   3. Hash_sum: 1137462510835444950 right: 1137462510835444950 
 
    4. Error code: okey
-   5. Data[0x16b1e7429] 
+   5. Data[0x16f4f3429] 
 
  
 stack created and Validate!
 
  
-stack, named $stack$ [0x16b1e7258] from function: Stack_ctor()
+stack, named $stack$ [0x16f4f3258] from function: Stack_ctor()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 2 
    2. Size: 0 
-   3. Hash_sum: 1137459787003883772 right: 1137459787003883772 
+   3. Hash_sum: 1137460382789768508 right: 1137460382789768508 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
+   5. Data[0x14d605da8] 
 
  
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 2 
    2. Size: 0 
-   3. Hash_sum: 1137459787003883772 right: 1137459787003883772 
+   3. Hash_sum: 1137460382789768508 right: 1137460382789768508 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
+   5. Data[0x14d605da8] 
 
  
 The element was successfully added to the stack!
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 2 
    2. Size: 1 
-   3. Hash_sum: 1137459787003887337 right: 1137459787003887337 
+   3. Hash_sum: 1137460382789772073 right: 1137460382789772073 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
+   5. Data[0x14d605da8] 
+       [0] = 13.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 2 
    2. Size: 1 
-   3. Hash_sum: 1137459787003887337 right: 1137459787003887337 
+   3. Hash_sum: 1137460382789772073 right: 1137460382789772073 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
+   5. Data[0x14d605da8] 
+       [0] = 13.000000
 
  
 The element was successfully added to the stack!
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 2 
    2. Size: 2 
-   3. Hash_sum: 1137459787003890902 right: 1137459787003890902 
+   3. Hash_sum: 1137460382789775638 right: 1137460382789775638 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
+   5. Data[0x14d605da8] 
+       [0] = 13.000000
+       [1] = 14.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 2 
    2. Size: 2 
-   3. Hash_sum: 1137459787003890902 right: 1137459787003890902 
+   3. Hash_sum: 1137460382789775638 right: 1137460382789775638 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
+   5. Data[0x14d605da8] 
+       [0] = 13.000000
+       [1] = 14.000000
 
  
 
  
-stack, named $stack$ [0x16b1e7238] from function: Stack.increase()
+stack, named $stack$ [0x16f4f3228] from function: Stack_increase()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 2 
    2. Size: 2 
-   3. Hash_sum: 1137459787003890902 right: 1137459787003890902 
+   3. Hash_sum: 1137460382789775638 right: 1137460382789775638 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
+   5. Data[0x14d605da8] 
+       [0] = 13.000000
+       [1] = 14.000000
 
  
 
  
-stack, named $stack$ [0x16b1e7238] from function: Stack.increase()
+stack, named $stack$ [0x16f4f3228] from function: Stack_increase()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 4 
    2. Size: 2 
-   3. Hash_sum: 1137459787003898032 right: 1137459787003898032 
+   3. Hash_sum: 1137460382790620080 right: 1137460382790620080 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
+   5. Data[0x14d605e88] 
+       [0] = 13.000000
+       [1] = 14.000000
 
  
 Stack size increased to:4 
 The element was successfully added to the stack!
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 4 
    2. Size: 3 
-   3. Hash_sum: 1137459787003901597 right: 1137459787003901597 
+   3. Hash_sum: 1137460382790623645 right: 1137460382790623645 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
+   5. Data[0x14d605e88] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 4 
    2. Size: 3 
-   3. Hash_sum: 1137459787003901597 right: 1137459787003901597 
+   3. Hash_sum: 1137460382790623645 right: 1137460382790623645 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
+   5. Data[0x14d605e88] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
 
  
 The element was successfully added to the stack!
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 4 
    2. Size: 4 
-   3. Hash_sum: 1137459787003905162 right: 1137459787003905162 
+   3. Hash_sum: 1137460382790627210 right: 1137460382790627210 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
+   5. Data[0x14d605e88] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 4 
    2. Size: 4 
-   3. Hash_sum: 1137459787003905162 right: 1137459787003905162 
+   3. Hash_sum: 1137460382790627210 right: 1137460382790627210 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
+   5. Data[0x14d605e88] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
 
  
 
  
-stack, named $stack$ [0x16b1e7238] from function: Stack.increase()
+stack, named $stack$ [0x16f4f3228] from function: Stack_increase()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 4 
    2. Size: 4 
-   3. Hash_sum: 1137459787003905162 right: 1137459787003905162 
+   3. Hash_sum: 1137460382790627210 right: 1137460382790627210 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
+   5. Data[0x14d605e88] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
 
  
 
  
-stack, named $stack$ [0x16b1e7238] from function: Stack.increase()
+stack, named $stack$ [0x16f4f3228] from function: Stack_increase()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 8 
    2. Size: 4 
-   3. Hash_sum: 1137459787003919422 right: 1137459787003919422 
+   3. Hash_sum: 1137460382791239550 right: 1137460382791239550 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
 
  
 Stack size increased to:8 
 The element was successfully added to the stack!
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 8 
    2. Size: 5 
-   3. Hash_sum: 1137459787003922987 right: 1137459787003922987 
+   3. Hash_sum: 1137460382791243115 right: 1137460382791243115 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 8 
    2. Size: 5 
-   3. Hash_sum: 1137459787003922987 right: 1137459787003922987 
+   3. Hash_sum: 1137460382791243115 right: 1137460382791243115 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
 
  
 The element was successfully added to the stack!
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 8 
    2. Size: 6 
-   3. Hash_sum: 1137459787003926552 right: 1137459787003926552 
+   3. Hash_sum: 1137460382791246680 right: 1137460382791246680 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 8 
    2. Size: 6 
-   3. Hash_sum: 1137459787003926552 right: 1137459787003926552 
+   3. Hash_sum: 1137460382791246680 right: 1137460382791246680 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
 
  
 The element was successfully added to the stack!
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 8 
    2. Size: 7 
-   3. Hash_sum: 1137459787003930117 right: 1137459787003930117 
+   3. Hash_sum: 1137460382791250245 right: 1137460382791250245 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 8 
    2. Size: 7 
-   3. Hash_sum: 1137459787003930117 right: 1137459787003930117 
+   3. Hash_sum: 1137460382791250245 right: 1137460382791250245 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
 
  
 The element was successfully added to the stack!
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 8 
    2. Size: 8 
-   3. Hash_sum: 1137459787003933682 right: 1137459787003933682 
+   3. Hash_sum: 1137460382791253810 right: 1137460382791253810 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 8 
    2. Size: 8 
-   3. Hash_sum: 1137459787003933682 right: 1137459787003933682 
+   3. Hash_sum: 1137460382791253810 right: 1137460382791253810 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
 
  
 
  
-stack, named $stack$ [0x16b1e7238] from function: Stack.increase()
+stack, named $stack$ [0x16f4f3228] from function: Stack_increase()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 8 
    2. Size: 8 
-   3. Hash_sum: 1137459787003933682 right: 1137459787003933682 
+   3. Hash_sum: 1137460382791253810 right: 1137460382791253810 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
 
  
 
  
-stack, named $stack$ [0x16b1e7238] from function: Stack.increase()
+stack, named $stack$ [0x16f4f3228] from function: Stack_increase()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 16 
    2. Size: 8 
-   3. Hash_sum: 1137459787003962202 right: 1137459787003962202 
+   3. Hash_sum: 1137460382791282330 right: 1137460382791282330 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
 
  
 Stack size increased to:16 
 The element was successfully added to the stack!
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 16 
    2. Size: 9 
-   3. Hash_sum: 1137459787003965767 right: 1137459787003965767 
+   3. Hash_sum: 1137460382791285895 right: 1137460382791285895 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 16 
    2. Size: 9 
-   3. Hash_sum: 1137459787003965767 right: 1137459787003965767 
+   3. Hash_sum: 1137460382791285895 right: 1137460382791285895 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
 
  
 The element was successfully added to the stack!
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 16 
    2. Size: 10 
-   3. Hash_sum: 1137459787003969332 right: 1137459787003969332 
+   3. Hash_sum: 1137460382791289460 right: 1137460382791289460 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 16 
    2. Size: 10 
-   3. Hash_sum: 1137459787003969332 right: 1137459787003969332 
+   3. Hash_sum: 1137460382791289460 right: 1137460382791289460 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
 
  
 The element was successfully added to the stack!
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 16 
    2. Size: 11 
-   3. Hash_sum: 1137459787003972897 right: 1137459787003972897 
+   3. Hash_sum: 1137460382791293025 right: 1137460382791293025 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 16 
    2. Size: 11 
-   3. Hash_sum: 1137459787003972897 right: 1137459787003972897 
+   3. Hash_sum: 1137460382791293025 right: 1137460382791293025 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
 
  
 The element was successfully added to the stack!
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 16 
    2. Size: 12 
-   3. Hash_sum: 1137459787003976462 right: 1137459787003976462 
+   3. Hash_sum: 1137460382791296590 right: 1137460382791296590 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 16 
    2. Size: 12 
-   3. Hash_sum: 1137459787003976462 right: 1137459787003976462 
+   3. Hash_sum: 1137460382791296590 right: 1137460382791296590 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
 
  
 The element was successfully added to the stack!
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 16 
    2. Size: 13 
-   3. Hash_sum: 1137459787003980027 right: 1137459787003980027 
+   3. Hash_sum: 1137460382791300155 right: 1137460382791300155 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 16 
    2. Size: 13 
-   3. Hash_sum: 1137459787003980027 right: 1137459787003980027 
+   3. Hash_sum: 1137460382791300155 right: 1137460382791300155 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
 
  
 The element was successfully added to the stack!
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 16 
    2. Size: 14 
-   3. Hash_sum: 1137459787003983592 right: 1137459787003983592 
+   3. Hash_sum: 1137460382791303720 right: 1137460382791303720 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 16 
    2. Size: 14 
-   3. Hash_sum: 1137459787003983592 right: 1137459787003983592 
+   3. Hash_sum: 1137460382791303720 right: 1137460382791303720 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
 
  
 The element was successfully added to the stack!
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 16 
    2. Size: 15 
-   3. Hash_sum: 1137459787003987157 right: 1137459787003987157 
+   3. Hash_sum: 1137460382791307285 right: 1137460382791307285 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 16 
    2. Size: 15 
-   3. Hash_sum: 1137459787003987157 right: 1137459787003987157 
+   3. Hash_sum: 1137460382791307285 right: 1137460382791307285 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
 
  
 The element was successfully added to the stack!
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 16 
    2. Size: 16 
-   3. Hash_sum: 1137459787003990722 right: 1137459787003990722 
+   3. Hash_sum: 1137460382791310850 right: 1137460382791310850 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
-       [15] = 28
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
+       [15] = 28.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 16 
    2. Size: 16 
-   3. Hash_sum: 1137459787003990722 right: 1137459787003990722 
+   3. Hash_sum: 1137460382791310850 right: 1137460382791310850 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
-       [15] = 28
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
+       [15] = 28.000000
 
  
 
  
-stack, named $stack$ [0x16b1e7238] from function: Stack.increase()
+stack, named $stack$ [0x16f4f3228] from function: Stack_increase()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 16 
    2. Size: 16 
-   3. Hash_sum: 1137459787003990722 right: 1137459787003990722 
+   3. Hash_sum: 1137460382791310850 right: 1137460382791310850 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
-       [15] = 28
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
+       [15] = 28.000000
 
  
 
  
-stack, named $stack$ [0x16b1e7238] from function: Stack.increase()
+stack, named $stack$ [0x16f4f3228] from function: Stack_increase()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 16 
-   3. Hash_sum: 1137459787004047762 right: 1137459787004047762 
+   3. Hash_sum: 1137460382791367890 right: 1137460382791367890 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
-       [15] = 28
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
+       [15] = 28.000000
 
  
 Stack size increased to:32 
 The element was successfully added to the stack!
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 17 
-   3. Hash_sum: 1137459787004051327 right: 1137459787004051327 
+   3. Hash_sum: 1137460382791371455 right: 1137460382791371455 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
-       [15] = 28
-       [16] = 29
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
+       [15] = 28.000000
+       [16] = 29.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 17 
-   3. Hash_sum: 1137459787004051327 right: 1137459787004051327 
+   3. Hash_sum: 1137460382791371455 right: 1137460382791371455 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
-       [15] = 28
-       [16] = 29
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
+       [15] = 28.000000
+       [16] = 29.000000
 
  
 The element was successfully added to the stack!
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 18 
-   3. Hash_sum: 1137459787004054892 right: 1137459787004054892 
+   3. Hash_sum: 1137460382791375020 right: 1137460382791375020 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
-       [15] = 28
-       [16] = 29
-       [17] = 30
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
+       [15] = 28.000000
+       [16] = 29.000000
+       [17] = 30.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 18 
-   3. Hash_sum: 1137459787004054892 right: 1137459787004054892 
+   3. Hash_sum: 1137460382791375020 right: 1137460382791375020 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
-       [15] = 28
-       [16] = 29
-       [17] = 30
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
+       [15] = 28.000000
+       [16] = 29.000000
+       [17] = 30.000000
 
  
 The element was successfully added to the stack!
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 19 
-   3. Hash_sum: 1137459787004058457 right: 1137459787004058457 
+   3. Hash_sum: 1137460382791378585 right: 1137460382791378585 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
-       [15] = 28
-       [16] = 29
-       [17] = 30
-       [18] = 31
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
+       [15] = 28.000000
+       [16] = 29.000000
+       [17] = 30.000000
+       [18] = 31.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 19 
-   3. Hash_sum: 1137459787004058457 right: 1137459787004058457 
+   3. Hash_sum: 1137460382791378585 right: 1137460382791378585 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
-       [15] = 28
-       [16] = 29
-       [17] = 30
-       [18] = 31
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
+       [15] = 28.000000
+       [16] = 29.000000
+       [17] = 30.000000
+       [18] = 31.000000
 
  
 The element was successfully added to the stack!
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 20 
-   3. Hash_sum: 1137459787004062022 right: 1137459787004062022 
+   3. Hash_sum: 1137460382791382150 right: 1137460382791382150 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
-       [15] = 28
-       [16] = 29
-       [17] = 30
-       [18] = 31
-       [19] = 32
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
+       [15] = 28.000000
+       [16] = 29.000000
+       [17] = 30.000000
+       [18] = 31.000000
+       [19] = 32.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 20 
-   3. Hash_sum: 1137459787004062022 right: 1137459787004062022 
+   3. Hash_sum: 1137460382791382150 right: 1137460382791382150 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
-       [15] = 28
-       [16] = 29
-       [17] = 30
-       [18] = 31
-       [19] = 32
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
+       [15] = 28.000000
+       [16] = 29.000000
+       [17] = 30.000000
+       [18] = 31.000000
+       [19] = 32.000000
 
  
 The element was successfully added to the stack!
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 21 
-   3. Hash_sum: 1137459787004065587 right: 1137459787004065587 
+   3. Hash_sum: 1137460382791385715 right: 1137460382791385715 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
-       [15] = 28
-       [16] = 29
-       [17] = 30
-       [18] = 31
-       [19] = 32
-       [20] = 33
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
+       [15] = 28.000000
+       [16] = 29.000000
+       [17] = 30.000000
+       [18] = 31.000000
+       [19] = 32.000000
+       [20] = 33.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 21 
-   3. Hash_sum: 1137459787004065587 right: 1137459787004065587 
+   3. Hash_sum: 1137460382791385715 right: 1137460382791385715 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
-       [15] = 28
-       [16] = 29
-       [17] = 30
-       [18] = 31
-       [19] = 32
-       [20] = 33
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
+       [15] = 28.000000
+       [16] = 29.000000
+       [17] = 30.000000
+       [18] = 31.000000
+       [19] = 32.000000
+       [20] = 33.000000
 
  
 The element was successfully added to the stack!
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 22 
-   3. Hash_sum: 1137459787004069152 right: 1137459787004069152 
+   3. Hash_sum: 1137460382791389280 right: 1137460382791389280 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
-       [15] = 28
-       [16] = 29
-       [17] = 30
-       [18] = 31
-       [19] = 32
-       [20] = 33
-       [21] = 34
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
+       [15] = 28.000000
+       [16] = 29.000000
+       [17] = 30.000000
+       [18] = 31.000000
+       [19] = 32.000000
+       [20] = 33.000000
+       [21] = 34.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 22 
-   3. Hash_sum: 1137459787004069152 right: 1137459787004069152 
+   3. Hash_sum: 1137460382791389280 right: 1137460382791389280 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
-       [15] = 28
-       [16] = 29
-       [17] = 30
-       [18] = 31
-       [19] = 32
-       [20] = 33
-       [21] = 34
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
+       [15] = 28.000000
+       [16] = 29.000000
+       [17] = 30.000000
+       [18] = 31.000000
+       [19] = 32.000000
+       [20] = 33.000000
+       [21] = 34.000000
 
  
 The element was successfully added to the stack!
 
  
-stack, named $stack$ [0x16b1e72c8] from function: Stack.push()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_push()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 23 
-   3. Hash_sum: 1137459787004072717 right: 1137459787004072717 
+   3. Hash_sum: 1137460382791392845 right: 1137460382791392845 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
-       [15] = 28
-       [16] = 29
-       [17] = 30
-       [18] = 31
-       [19] = 32
-       [20] = 33
-       [21] = 34
-       [22] = 35
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
+       [15] = 28.000000
+       [16] = 29.000000
+       [17] = 30.000000
+       [18] = 31.000000
+       [19] = 32.000000
+       [20] = 33.000000
+       [21] = 34.000000
+       [22] = 35.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_pop()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 23 
-   3. Hash_sum: 1137459787004072717 right: 1137459787004072717 
+   3. Hash_sum: 1137460382791392845 right: 1137460382791392845 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
-       [15] = 28
-       [16] = 29
-       [17] = 30
-       [18] = 31
-       [19] = 32
-       [20] = 33
-       [21] = 34
-       [22] = 35
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
+       [15] = 28.000000
+       [16] = 29.000000
+       [17] = 30.000000
+       [18] = 31.000000
+       [19] = 32.000000
+       [20] = 33.000000
+       [21] = 34.000000
+       [22] = 35.000000
 
  
 The element has left the stack!
 
  
-stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_pop()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 22 
-   3. Hash_sum: 1137459787004069152 right: 1137459787004069152 
+   3. Hash_sum: 1137460382791389280 right: 1137460382791389280 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
-       [15] = 28
-       [16] = 29
-       [17] = 30
-       [18] = 31
-       [19] = 32
-       [20] = 33
-       [21] = 34
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
+       [15] = 28.000000
+       [16] = 29.000000
+       [17] = 30.000000
+       [18] = 31.000000
+       [19] = 32.000000
+       [20] = 33.000000
+       [21] = 34.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_pop()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 22 
-   3. Hash_sum: 1137459787004069152 right: 1137459787004069152 
+   3. Hash_sum: 1137460382791389280 right: 1137460382791389280 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
-       [15] = 28
-       [16] = 29
-       [17] = 30
-       [18] = 31
-       [19] = 32
-       [20] = 33
-       [21] = 34
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
+       [15] = 28.000000
+       [16] = 29.000000
+       [17] = 30.000000
+       [18] = 31.000000
+       [19] = 32.000000
+       [20] = 33.000000
+       [21] = 34.000000
 
  
 The element has left the stack!
 
  
-stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_pop()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 21 
-   3. Hash_sum: 1137459787004065587 right: 1137459787004065587 
+   3. Hash_sum: 1137460382791385715 right: 1137460382791385715 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
-       [15] = 28
-       [16] = 29
-       [17] = 30
-       [18] = 31
-       [19] = 32
-       [20] = 33
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
+       [15] = 28.000000
+       [16] = 29.000000
+       [17] = 30.000000
+       [18] = 31.000000
+       [19] = 32.000000
+       [20] = 33.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_pop()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 21 
-   3. Hash_sum: 1137459787004065587 right: 1137459787004065587 
+   3. Hash_sum: 1137460382791385715 right: 1137460382791385715 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
-       [15] = 28
-       [16] = 29
-       [17] = 30
-       [18] = 31
-       [19] = 32
-       [20] = 33
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
+       [15] = 28.000000
+       [16] = 29.000000
+       [17] = 30.000000
+       [18] = 31.000000
+       [19] = 32.000000
+       [20] = 33.000000
 
  
 The element has left the stack!
 
  
-stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_pop()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 20 
-   3. Hash_sum: 1137459787004062022 right: 1137459787004062022 
+   3. Hash_sum: 1137460382791382150 right: 1137460382791382150 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
-       [15] = 28
-       [16] = 29
-       [17] = 30
-       [18] = 31
-       [19] = 32
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
+       [15] = 28.000000
+       [16] = 29.000000
+       [17] = 30.000000
+       [18] = 31.000000
+       [19] = 32.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_pop()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 20 
-   3. Hash_sum: 1137459787004062022 right: 1137459787004062022 
+   3. Hash_sum: 1137460382791382150 right: 1137460382791382150 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
-       [15] = 28
-       [16] = 29
-       [17] = 30
-       [18] = 31
-       [19] = 32
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
+       [15] = 28.000000
+       [16] = 29.000000
+       [17] = 30.000000
+       [18] = 31.000000
+       [19] = 32.000000
 
  
 The element has left the stack!
 
  
-stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_pop()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 19 
-   3. Hash_sum: 1137459787004058457 right: 1137459787004058457 
+   3. Hash_sum: 1137460382791378585 right: 1137460382791378585 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
-       [15] = 28
-       [16] = 29
-       [17] = 30
-       [18] = 31
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
+       [15] = 28.000000
+       [16] = 29.000000
+       [17] = 30.000000
+       [18] = 31.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_pop()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 19 
-   3. Hash_sum: 1137459787004058457 right: 1137459787004058457 
+   3. Hash_sum: 1137460382791378585 right: 1137460382791378585 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
-       [15] = 28
-       [16] = 29
-       [17] = 30
-       [18] = 31
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
+       [15] = 28.000000
+       [16] = 29.000000
+       [17] = 30.000000
+       [18] = 31.000000
 
  
 The element has left the stack!
 
  
-stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_pop()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 18 
-   3. Hash_sum: 1137459787004054892 right: 1137459787004054892 
+   3. Hash_sum: 1137460382791375020 right: 1137460382791375020 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
-       [15] = 28
-       [16] = 29
-       [17] = 30
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
+       [15] = 28.000000
+       [16] = 29.000000
+       [17] = 30.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_pop()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 18 
-   3. Hash_sum: 1137459787004054892 right: 1137459787004054892 
+   3. Hash_sum: 1137460382791375020 right: 1137460382791375020 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
-       [15] = 28
-       [16] = 29
-       [17] = 30
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
+       [15] = 28.000000
+       [16] = 29.000000
+       [17] = 30.000000
 
  
 The element has left the stack!
 
  
-stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_pop()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 17 
-   3. Hash_sum: 1137459787004051327 right: 1137459787004051327 
+   3. Hash_sum: 1137460382791371455 right: 1137460382791371455 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
-       [15] = 28
-       [16] = 29
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
+       [15] = 28.000000
+       [16] = 29.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_pop()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 17 
-   3. Hash_sum: 1137459787004051327 right: 1137459787004051327 
+   3. Hash_sum: 1137460382791371455 right: 1137460382791371455 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
-       [15] = 28
-       [16] = 29
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
+       [15] = 28.000000
+       [16] = 29.000000
 
  
 The element has left the stack!
 
  
-stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_pop()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 16 
-   3. Hash_sum: 1137459787004047762 right: 1137459787004047762 
+   3. Hash_sum: 1137460382791367890 right: 1137460382791367890 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
-       [15] = 28
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
+       [15] = 28.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_pop()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 16 
-   3. Hash_sum: 1137459787004047762 right: 1137459787004047762 
+   3. Hash_sum: 1137460382791367890 right: 1137460382791367890 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
-       [15] = 28
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
+       [15] = 28.000000
 
  
 The element has left the stack!
 
  
-stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_pop()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 15 
-   3. Hash_sum: 1137459787004044197 right: 1137459787004044197 
+   3. Hash_sum: 1137460382791364325 right: 1137460382791364325 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_pop()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 15 
-   3. Hash_sum: 1137459787004044197 right: 1137459787004044197 
+   3. Hash_sum: 1137460382791364325 right: 1137460382791364325 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
-       [14] = 27
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
+       [14] = 27.000000
 
  
 The element has left the stack!
 
  
-stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_pop()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 14 
-   3. Hash_sum: 1137459787004040632 right: 1137459787004040632 
+   3. Hash_sum: 1137460382791360760 right: 1137460382791360760 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_pop()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 14 
-   3. Hash_sum: 1137459787004040632 right: 1137459787004040632 
+   3. Hash_sum: 1137460382791360760 right: 1137460382791360760 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
-       [13] = 26
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
+       [13] = 26.000000
 
  
 The element has left the stack!
 
  
-stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_pop()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 13 
-   3. Hash_sum: 1137459787004037067 right: 1137459787004037067 
+   3. Hash_sum: 1137460382791357195 right: 1137460382791357195 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_pop()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 13 
-   3. Hash_sum: 1137459787004037067 right: 1137459787004037067 
+   3. Hash_sum: 1137460382791357195 right: 1137460382791357195 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
-       [12] = 25
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
+       [12] = 25.000000
 
  
 The element has left the stack!
 
  
-stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_pop()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 12 
-   3. Hash_sum: 1137459787004033502 right: 1137459787004033502 
+   3. Hash_sum: 1137460382791353630 right: 1137460382791353630 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_pop()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 12 
-   3. Hash_sum: 1137459787004033502 right: 1137459787004033502 
+   3. Hash_sum: 1137460382791353630 right: 1137460382791353630 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
-       [11] = 24
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
+       [11] = 24.000000
 
  
 The element has left the stack!
 
  
-stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_pop()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 11 
-   3. Hash_sum: 1137459787004029937 right: 1137459787004029937 
+   3. Hash_sum: 1137460382791350065 right: 1137460382791350065 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_pop()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 11 
-   3. Hash_sum: 1137459787004029937 right: 1137459787004029937 
+   3. Hash_sum: 1137460382791350065 right: 1137460382791350065 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
-       [10] = 23
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
+       [10] = 23.000000
 
  
 The element has left the stack!
 
  
-stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_pop()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 10 
-   3. Hash_sum: 1137459787004026372 right: 1137459787004026372 
+   3. Hash_sum: 1137460382791346500 right: 1137460382791346500 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_pop()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 10 
-   3. Hash_sum: 1137459787004026372 right: 1137459787004026372 
+   3. Hash_sum: 1137460382791346500 right: 1137460382791346500 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
 
  
 
  
-stack, named $stack$ [0x16b1e7248] from function: Stack.decrease()
+stack, named $stack$ [0x16f4f3228] from function: Stack_decrease()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 32 
    2. Size: 10 
-   3. Hash_sum: 1137459787004026372 right: 1137459787004026372 
+   3. Hash_sum: 1137460382791346500 right: 1137460382791346500 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
 
  
 
  
-stack, named $stack$ [0x16b1e7248] from function: Stack.decrease()
+stack, named $stack$ [0x16f4f3228] from function: Stack_decrease()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 16 
    2. Size: 10 
-   3. Hash_sum: 1137459787003969332 right: 1137459787003969332 
+   3. Hash_sum: 1137460382791289460 right: 1137460382791289460 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
-       [9] = 22
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
+       [9] = 22.000000
 
  
 Stack size decreased to:16 
 The element has left the stack!
 
  
-stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_pop()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 16 
    2. Size: 9 
-   3. Hash_sum: 1137459787003965767 right: 1137459787003965767 
+   3. Hash_sum: 1137460382791285895 right: 1137460382791285895 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_pop()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 16 
    2. Size: 9 
-   3. Hash_sum: 1137459787003965767 right: 1137459787003965767 
+   3. Hash_sum: 1137460382791285895 right: 1137460382791285895 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
-       [8] = 21
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
+       [8] = 21.000000
 
  
 The element has left the stack!
 
  
-stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_pop()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 16 
    2. Size: 8 
-   3. Hash_sum: 1137459787003962202 right: 1137459787003962202 
+   3. Hash_sum: 1137460382791282330 right: 1137460382791282330 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
 
  
 
  
-stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_pop()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 16 
    2. Size: 8 
-   3. Hash_sum: 1137459787003962202 right: 1137459787003962202 
+   3. Hash_sum: 1137460382791282330 right: 1137460382791282330 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
-       [7] = 20
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
+       [7] = 20.000000
 
  
 The element has left the stack!
 
  
-stack, named $stack$ [0x16b1e72d8] from function: Stack_pop()
+stack, named $stack$ [0x16f4f32c8] from function: Stack_pop()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 16 
    2. Size: 7 
-   3. Hash_sum: 1137459787003958637 right: 1137459787003958637 
+   3. Hash_sum: 1137460382791278765 right: 1137460382791278765 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
 
  
 
  
-stack, named $stack$ [0x16b1e7348] from function: Stack_dtor()
+stack, named $stack$ [0x16f4f3348] from function: Stack_dtor()
 Curret Canary 1: BADDED600DDED[OK]
 Curret Canary 2: BADDED600DDED[OK]
    1. Capacity: 16 
    2. Size: 7 
-   3. Hash_sum: 1137459787003958637 right: 1137459787003958637 
+   3. Hash_sum: 1137460382791278765 right: 1137460382791278765 
 
    4. Error code: okey
-   5. Data[0x143e05308] 
-       [0] = 13
-       [1] = 14
-       [2] = 15
-       [3] = 16
-       [4] = 17
-       [5] = 18
-       [6] = 19
+   5. Data[0x14d605f28] 
+       [0] = 13.000000
+       [1] = 14.000000
+       [2] = 15.000000
+       [3] = 16.000000
+       [4] = 17.000000
+       [5] = 18.000000
+       [6] = 19.000000
 
  
 stack determinate!

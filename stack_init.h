@@ -3,6 +3,10 @@
 #include <stdlib.h>
 #include <assert.h>
 
+typedef double StackELem_t;
+#define PRINTF_SPECIFIER "%f" 
+
+typedef long long canary_t;
 
 enum valid_stat
 {
@@ -10,11 +14,9 @@ enum valid_stat
     NO_VALID = 1
 };
 
-const long long CANARY_OK = 0XBADDED600DDED; 
+const canary_t CANARY_OK = 0XBADDED600DDED;
 
-
-#define Default_capacity 2
-#define PRINTF_SPECIFIER "%d"                   //TODO WTF?
+#define Default_capacity 2                  
 
 #ifdef BOTH
 #define USE_CANARYS 
@@ -53,31 +55,35 @@ enum eror
     NULL_PTR_STRUCT                      = 9
 };
 
-struct eror_t
+struct StackError_t
 {
     char*   fauld_func_name;
     char*   fauld_file_name;
     int   fauld_num_of_line;
     eror  eror_code;
-    FILE* Logfile;
+    FILE* Logfile; 
 };
 
 struct stack
 {
-    long long Canary_1;                                     //TODO Почем бы просто не сделать, конст переменные, которые всё зарушат
+    canary_t Canary_1;     
+
     FILE* Logfile;
     size_t size;
     size_t capacity;
+    
     size_t hash_sum;
+    
     const char* stack_name;
-    int* data;
-    eror_t last_eror;
-    long long Canary_2;
+    StackELem_t* data;
+    StackError_t last_eror;
+
+    canary_t Canary_2;
 };
 
-struct validator
+struct stack_valid_ctor
 {
-    stack** validator;
+    stack** all_stack_validate_ctor;
     int count;
 };
 
@@ -85,9 +91,9 @@ eror IsEror(stack* stk, const char* file, const char* funk, int num_of_line);
 eror Stack_ctor(stack*stk, const char* stack_name);
 eror Verify(stack* stk);
 eror Stack_dtor(stack* stk);
-eror_t mark_eror (const char* ffile, const char* ffunk, int num_of_line, eror eror_code, stack* stk);
+StackError_t mark_eror (const char* ffile, const char* ffunk, int num_of_line, eror eror_code, stack* stk);
 size_t Hash_count(stack stk) ;
-void Print_error(eror_t eror);
+void Print_error(StackError_t eror);
 void Dumper(stack stk);
 void stk_default_set(stack* stk);
 void Add_In_Valid(stack* stk);

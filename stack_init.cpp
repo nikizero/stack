@@ -1,6 +1,10 @@
 #include "stack_init.h"
 
-validator valid = {(stack**)calloc(2, sizeof(stack)), 0};
+static stack_valid_ctor *GetValidator() {
+    static stack_valid_ctor valid = {.all_stack_validate_ctor = (stack**)calloc(2, sizeof(stack)), .count = 0};
+
+    return &valid;
+}
 
 eror IsEror(stack* stk, const char* file, const char* funk, int num_of_line)
 {
@@ -17,6 +21,7 @@ eror IsEror(stack* stk, const char* file, const char* funk, int num_of_line)
 
 size_t Hash_count(stack stk) 
 {
+    // const size_t
     size_t HS1 = 0xDED;
     size_t HS2 = 0xAD;
     size_t total = 0;
@@ -30,7 +35,7 @@ void stk_default_set(stack* stk)
 {
     stk->Canary_1 = CANARY_OK;
     stk->capacity = Default_capacity;
-    stk->data = (int*)((char*)stk + 1);
+    stk->data = (StackELem_t*)((char*)stk + 1);
     stk->stack_name = "default stack name";
     stk->Canary_2 = CANARY_OK;
 }
@@ -45,17 +50,35 @@ eror Stack_ctor(stack* stk, const char* stack_name)
     stk_default_set(stk);
     stk->stack_name = stack_name;
 
-    stk->hash_sum = Hash_count(*stk);
+    ON_HASH
+    (
+        stk->hash_sum = Hash_count(*stk);
+    );
 
     Add_In_Valid(stk);
-    ON_DEBUG(if(IsEror(stk, "stack.init", "Stack_ctor", 46) != OK) {return stk->last_eror.eror_code;};);
+    ON_DEBUG
+    (
+        if(IsEror(stk, __FILE__, __func__, __LINE__) != OK)
+        {
+            return stk->last_eror.eror_code;
+        };
+    );
     fprintf(stk->Logfile, "stack created and Validate!\n");
 
-    stk->data = (int*)((char*)calloc(stk->capacity + 2 * sizeof(stk->Canary_1), 1) + sizeof(stk->Canary_1));
+    stk->data = (StackELem_t*)((char*)calloc(stk->capacity + 2 * sizeof(stk->Canary_1), 1) + sizeof(stk->Canary_1));
 
-    stk->hash_sum = Hash_count(*stk);
+    ON_HASH
+    (
+        stk->hash_sum = Hash_count(*stk);
+    );
 
-    ON_DEBUG(if(IsEror(stk, "stack.init", "Stack_ctor", 53) != OK) {return stk->last_eror.eror_code;};);
+    ON_DEBUG
+    (
+        if(IsEror(stk, __FILE__, __func__, __LINE__) != OK) 
+        {
+            return stk->last_eror.eror_code;
+        };
+    );
     return stk->last_eror.eror_code;
 }
 
@@ -63,14 +86,18 @@ void Add_In_Valid(stack* stk)
 {
     assert(stk);
 
-    if (valid.count == 1000)
+    static const size_t CountOver = 1000;
+
+    stack_valid_ctor* valid = GetValidator();
+
+    if (valid->count == CountOver)
     {
-        valid.count *= 2;
-        valid.validator = (stack**) realloc(valid.validator, valid.count);
+        valid->count *= 2;
+        valid->all_stack_validate_ctor = (stack**) realloc(valid->all_stack_validate_ctor, valid->count);
     }
 
-    valid.validator[valid.count] = stk;
-    valid.count+=1;
+    valid->all_stack_validate_ctor[valid->count] = stk;
+    valid->count += 1;
 }
 
 valid_stat Stac_Is_Init(stack* stk)
@@ -78,9 +105,11 @@ valid_stat Stac_Is_Init(stack* stk)
     if (stk == NULL) 
     assert(stk);
 
-    stack** adr = valid.validator;
+    stack_valid_ctor* valid = GetValidator();
 
-    for (int i = 0; i < 1000; i++)
+    stack** adr = valid->all_stack_validate_ctor;
+
+    for (int i = 0; i < valid->count; i++)
     {
         if (adr[i] == stk)
         {
@@ -93,7 +122,13 @@ valid_stat Stac_Is_Init(stack* stk)
 
 eror Stack_dtor(stack* stk)
 {
-    ON_DEBUG(if(IsEror(stk, "stack.init", "Stack_dtor", 59) != OK) {return stk->last_eror.eror_code;};);
+    ON_DEBUG
+    (
+        if(IsEror(stk, __FILE__, __func__, __LINE__) != OK) 
+        {
+            return stk->last_eror.eror_code;
+        };
+    );
 
     if (stk == NULL) 
     {
@@ -110,10 +145,16 @@ eror Stack_dtor(stack* stk)
     stk -> Logfile = stdout;
     return OK;
     
-    ON_DEBUG(if(IsEror(stk, "stack.init", "Stack_dtor", 59) != OK) {return stk->last_eror.eror_code;};);
+    ON_DEBUG
+    (
+        if(IsEror(stk, __FILE__, __func__, __LINE__) != OK) 
+        {
+            return stk->last_eror.eror_code;
+        };
+    );
 }
 
-eror Verify(stack* stk)          //TODO Переделать с учетом возможности stk = null и тогда убрать assert
+eror Verify(stack* stk)         
 {
     if (stk == NULL)
     {
@@ -186,7 +227,7 @@ eror Verify(stack* stk)          //TODO Переделать с учетом в�
     }
 }
 
-eror_t mark_eror (const char* ffile, const char* ffunk, int num_of_line, eror eror_code, stack* stk)
+StackError_t mark_eror (const char* ffile, const char* ffunk, int num_of_line, eror eror_code, stack* stk)
 {
     assert(ffile);
     assert(ffunk);
@@ -195,13 +236,13 @@ eror_t mark_eror (const char* ffile, const char* ffunk, int num_of_line, eror er
     char* file = (char*)ffile;
     char* funk = (char*)ffunk;
 
-    eror_t struct_eror = {.eror_code = eror_code, .fauld_file_name = file, .fauld_func_name = funk, .fauld_num_of_line = num_of_line,
+    StackError_t struct_eror = {.eror_code = eror_code, .fauld_file_name = file, .fauld_func_name = funk, .fauld_num_of_line = num_of_line,
     .Logfile = stk->Logfile};
     stk -> last_eror = struct_eror;
     return struct_eror;
 }
 
-void Print_error(eror_t eror)
+void Print_error(StackError_t eror)
 {
     assert(eror.Logfile);
 
@@ -262,7 +303,11 @@ void Dumper(stack stk)
 
     fprintf(stk.Logfile, "   1. Capacity: %lu \n", stk.capacity);
     fprintf(stk.Logfile, "   2. Size: %lu \n", stk.size);
-    ON_HASH(fprintf(stk.Logfile, "   3. Hash_sum: %lu right: %lu \n", stk.hash_sum, Hash_count(stk)););
+    
+    ON_HASH
+    (
+        fprintf(stk.Logfile, "   3. Hash_sum: %lu right: %lu \n", stk.hash_sum, Hash_count(stk));
+    );
 
     fprintf(stk.Logfile, "\n");
 
@@ -275,7 +320,7 @@ void Dumper(stack stk)
         for (size_t i = 0; i < stk.size; i ++) 
         {
             fprintf(stk.Logfile, "       [%lu] = ", i);
-            fprintf(stk.Logfile, PRINTF_SPECIFIER, *((int *)((char*)stk.data + i * sizeof(int))));   //TODO WTF
+            fprintf(stk.Logfile, PRINTF_SPECIFIER, *((StackELem_t *)((char*)stk.data + i * sizeof(StackELem_t))));  
             fprintf(stk.Logfile, "\n");
         }
 

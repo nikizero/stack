@@ -2,26 +2,48 @@
 
  eror Stack_increase(stack* stk) 
  {
-    ON_DEBUG(if(IsEror(stk, "stack.oper", "Stack.increase", 7) != OK) {return stk->last_eror.eror_code;};);
-
-    stk->data = (int*)((char *)realloc((char *)stk->data - sizeof(CANARY_OK), 2 * stk->capacity * sizeof(int) + 2 * sizeof(CANARY_OK)) + sizeof(CANARY_OK));
-    assert(stk -> data);
-
-    *((long long *)((char *)stk->data + stk->capacity * sizeof(int))) = CANARY_OK;
-    *((long long *)((char *)stk->data - sizeof(CANARY_OK))) = CANARY_OK;
+    ON_DEBUG
+    (
+        if(IsEror(stk, __FILE__, __func__, __LINE__) != OK) 
+        {
+            return stk->last_eror.eror_code;
+        };
+    );
 
     stk->capacity *= 2;
-    
-    stk->hash_sum = Hash_count(*stk);
+    const size_t new_capacity = stk->capacity * sizeof(StackELem_t) + 2 * sizeof(CANARY_OK);
 
-    ON_DEBUG(if(IsEror(stk, "stack.oper", "Stack.increase", 19) != OK) {return stk->last_eror.eror_code;};);
+    stk->data = (StackELem_t*)((char *)realloc((char *)stk->data - sizeof(CANARY_OK), new_capacity) + sizeof(CANARY_OK));
+    assert(stk -> data);
+
+    *((canary_t *)((char *)stk->data + stk->capacity * sizeof(StackELem_t))) = CANARY_OK;
+    *((canary_t *)((char *)stk->data - sizeof(CANARY_OK)))                   = CANARY_OK;
+    
+    ON_HASH
+    (
+        stk->hash_sum = Hash_count(*stk);
+    );
+
+    ON_DEBUG
+    (
+        if(IsEror(stk, __FILE__, __func__, __LINE__) != OK) 
+        {
+            return stk->last_eror.eror_code;
+        };
+    );
 
     return OK;
 }
 
-eror Stack_push(stack * stk, int a) 
+eror Stack_push(stack * stk, StackELem_t a) 
 {
-    ON_DEBUG(if(IsEror(stk, "stack.oper", "Stack.push", 27) != OK) {return stk->last_eror.eror_code;};);    //TODO я правильно понимаю, что верификатор не должен прерывать выполнение функции
+    ON_DEBUG
+    (
+        if(IsEror(stk, __FILE__, __func__, __LINE__) != OK) 
+        {
+            return stk->last_eror.eror_code;}
+        ;
+    );   
 
     if (stk->capacity <= stk->size) 
     {    
@@ -30,38 +52,69 @@ eror Stack_push(stack * stk, int a)
     }
 
     stk->size += 1;
-    *((int *)((char*)stk->data + (stk->size - 1)* sizeof(int))) = a;
+    *((StackELem_t *)((char*)stk->data + (stk->size - 1)* sizeof(StackELem_t))) = a;
 
     fprintf(stk->Logfile,"The element was successfully added to the stack!\n");
 
-    stk->hash_sum = Hash_count(*stk);
+    ON_HASH
+    (
+        stk->hash_sum = Hash_count(*stk);
+    );
 
-    ON_DEBUG(if(IsEror(stk, "stack.oper", "Stack.push", 42) != OK) {return stk->last_eror.eror_code;};);
+    ON_DEBUG
+    (
+        if(IsEror(stk, __FILE__, __func__, __LINE__) != OK) 
+        {
+            return stk->last_eror.eror_code;
+        };
+    );
 
     return OK;
 }
 
 eror Stack_decrease(stack * stk) 
 {
-    ON_DEBUG(if(IsEror(stk, "stack.oper", "Stack.decrease", 50) != OK) {return stk->last_eror.eror_code;};);
+    ON_DEBUG
+    (
+        if(IsEror(stk, __FILE__, __func__, __LINE__) != OK) 
+        {
+            return stk->last_eror.eror_code;
+        };
+    );
 
     stk->capacity /= 2; 
     
-    stk->data = (int*)((char *)realloc((char *)stk->data - sizeof(CANARY_OK), stk->capacity * sizeof(int) + 2 * sizeof(CANARY_OK)) + sizeof(CANARY_OK));
+    const size_t new_capacity = 2 * stk->capacity * sizeof(StackELem_t) + 2 * sizeof(CANARY_OK);
+    stk->data = (StackELem_t*)((char *)realloc((char *)stk->data - sizeof(CANARY_OK), new_capacity) + sizeof(CANARY_OK));
     assert(stk -> data);
 
-    *((long long *)((char *)stk->data + stk->capacity * sizeof(int))) = CANARY_OK;
-    *((long long *)((char *)stk->data - sizeof(CANARY_OK))) = CANARY_OK;
+    *((canary_t *)((char *)stk->data + stk->capacity * sizeof(StackELem_t))) = CANARY_OK;
+    *((canary_t *)((char *)stk->data - sizeof(CANARY_OK)))                   = CANARY_OK;
     
-    stk->hash_sum = Hash_count(*stk);
+    ON_HASH
+    (
+        stk->hash_sum = Hash_count(*stk);
+    );
 
-    ON_DEBUG(if(IsEror(stk, "stack.oper", "Stack.decrease", 62) != OK) {return stk->last_eror.eror_code;};);
+    ON_DEBUG
+    (
+        if(IsEror(stk, __FILE__, __func__, __LINE__) != OK) 
+        {
+            return stk->last_eror.eror_code;
+        };
+    );
     return OK;
 }
 
 eror Stack_pop(stack * stk)
 {
-    ON_DEBUG(if(IsEror(stk, "stack.oper", "Stack_pop", 69) != OK) {return stk->last_eror.eror_code;};);
+    ON_DEBUG
+    (
+        if(IsEror(stk, __FILE__, __func__, __LINE__) != OK) 
+        {
+            return stk->last_eror.eror_code;
+        };
+    );
     
     if (stk->size <= 0) 
     {
@@ -69,7 +122,9 @@ eror Stack_pop(stack * stk)
         return CAPAS_LESS_DEFAULT;
     }
    
-    if (stk->capacity >= stk->size * 3 && stk->capacity/2  > Default_capacity)  
+   const size_t INCREASE_VALUE = 3;
+
+    if (stk->capacity >= stk->size * INCREASE_VALUE && stk->capacity / 2  > Default_capacity)  
     {
        
         if (Stack_decrease(stk) == OK ) 
@@ -81,17 +136,27 @@ eror Stack_pop(stack * stk)
         else 
         {
             fprintf(stk->Logfile, "Error in decreasing stack`s size\n");
-            return IsEror(stk, "stack.oper", "Stack_pop", 68);
+            return IsEror(stk, __FILE__, "stack_pop", __LINE__);
         }
     }
 
-    *((int *)((char *)stk->data + stk->size * sizeof(int))) = 0;      
+    *((StackELem_t *)((char *)stk->data + stk->size * sizeof(StackELem_t))) = 0;      
 
     stk->size--;
     fprintf (stk->Logfile, "The element has left the stack!\n");
-    stk->hash_sum = Hash_count(*stk);
+    
+    ON_HASH
+    (
+        stk->hash_sum = Hash_count(*stk);
+    );
 
-    ON_DEBUG(if(IsEror(stk, "stack.oper", "Stack_pop", 99) != OK) {return stk->last_eror.eror_code;};);
+    ON_DEBUG
+    (
+        if(IsEror(stk, __FILE__, __func__, __LINE__) != OK) 
+        {
+            return stk->last_eror.eror_code;
+        };
+    );
 
     return OK;
 }
